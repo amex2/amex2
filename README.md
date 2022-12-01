@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Software Enginering
 - 💞️ I’m looking to collaborate on Everything but in Good Works
-- 📫 How to reach me 
+- 📫 How to reach me => amaretere22@gmail.com
 
 <!---
 amex2/amex2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
