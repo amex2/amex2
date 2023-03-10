@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amex2
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Software Enginering
+- 🌱 I’m currently learning Software Enginering(Bsc)
 - 💞️ I’m looking to collaborate on Everything but in Good Works
 - 📫 How to reach me => amaretere22@gmail.com
 
